@@ -1,0 +1,129 @@
+div {
+	font-family: tahoma;
+	font-size: 12px;
+	text-align: left;
+}
+td {
+	vertical-align: top;
+	text-align: left;
+	font-family: tahoma;
+	font-size: 12px;
+}
+select{
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	border: 1px solid #658AB9;
+}
+
+input.tombol {
+	width: 48px; 
+	border: 1px solid #658AB9; 
+	background-color: #658AB9; 
+	font-family: tahoma; 
+	color: #CCCCCC; 
+	cursor: pointer;
+	font-size: 12px;
+}
+input.login {
+	width: 100px; 
+	height: 17px;
+	font-size: 10px;
+	font-weight: bold;
+	font-family: tahoma;
+}
+input.value {
+	width: 58px; 
+	height: 15px;
+	font-size: 10px;
+	font-weight: bold;
+	font-family: tahoma;
+	text-align: right;
+	border: 1px solid #658AB9;
+}
+input.value2 {
+	width: 200px; 
+	height: 20px;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: tahoma;
+	text-align: left;
+	vertical-align: middle;
+	border: 1px solid #658AB9;
+}
+a.logout {
+	width: 180px;
+	height: 20px;
+	background-color: #EBE3F4;
+	font-family: tahoma;
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+}
+a.logout:hover {
+	width: 180px;
+	height: 20px;
+	background-color: #492B6B;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+a.edit {
+	width: 50px;
+	height: 17px;
+	font-family: tahoma; 
+	color: #818180; 
+	cursor: pointer;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+}
+a.edit:hover {
+	width: 48px; 
+	height: 15px;
+	border: 1px solid #658AB9;
+	background-color: #658AB9;
+	font-family: tahoma; 
+	color: #ffffff; 
+	cursor: pointer;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+}
+a.edit:active {
+	width: 48px; 
+	height: 15px;
+	border: 1px solid #658AB9;
+	background-color: #658AB9;
+	font-family: tahoma; 
+	color: #ffffff; 
+	cursor: pointer;
+	font-size: 12px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+}
+a.mode {
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	color: #000000;
+}
+a.mode:hover {
+	text-decoration: none;
+	background-color: #EBE3F4;
+	display: block;
+	padding: 5px;
+	color: #000000;
+}
+a.menu {
+	text-decoration: none;
+}
+a.menu:hover {
+	text-decoration: underline;
+}
